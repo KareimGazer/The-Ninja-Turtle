@@ -1,5 +1,4 @@
 import turtle
-import math
 
 def draw_spirograph(radius, step_angle):
     """
